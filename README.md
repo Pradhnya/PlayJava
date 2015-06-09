@@ -8,6 +8,7 @@ This is an play demo code for till chapter 6.
 
 <p>
 How many hours did it take to complete?
+
 10 hours - Reading the notes, watching the tutorial and class videos and working on the application.
 </p>
 
@@ -26,4 +27,4 @@ Added
 </p>
 
 <p>
-Demo Link: <a href=""> <br> <br>
+Demo Link: <a href="https://github.com/Pradhnya/PlayJava/blob/master/demo/chapter_6.gif"> <br> <br>
