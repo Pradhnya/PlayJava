@@ -28,6 +28,6 @@ Added
 
 <p>
 Demo Link: <a href="https://github.com/Pradhnya/PlayJava/blob/master/demo/chapter_6.gif"> <br> <br>
- <br>
+<img border="0" src="https://github.com/Pradhnya/PlayJava/blob/master/demo/chapter_6.gif" width="100%" height="100%"> <br>
 </a>
 </p>
