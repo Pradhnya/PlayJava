@@ -1,4 +1,3 @@
-https://github.com/Pradhnya/PlayJava/wiki
 
 
 <h1>Play for Java</h1>
